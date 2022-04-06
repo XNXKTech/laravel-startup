@@ -11809,16 +11809,16 @@
         },
         {
             "name": "xnxktech/laravel-redis-helper",
-            "version": "v1.1.1",
+            "version": "v1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/XNXKTech/laravel-redis-helper.git",
-                "reference": "2307d77e3113804f78489eac1b127337cf4bd671"
+                "reference": "1206916ee9fed69fcba28eed1f4a1a8b2f41cc2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/XNXKTech/laravel-redis-helper/zipball/2307d77e3113804f78489eac1b127337cf4bd671",
-                "reference": "2307d77e3113804f78489eac1b127337cf4bd671",
+                "url": "https://api.github.com/repos/XNXKTech/laravel-redis-helper/zipball/1206916ee9fed69fcba28eed1f4a1a8b2f41cc2d",
+                "reference": "1206916ee9fed69fcba28eed1f4a1a8b2f41cc2d",
                 "shasum": ""
             },
             "require": {
@@ -11855,9 +11855,9 @@
             "description": "redis helper for Laravel",
             "support": {
                 "issues": "https://github.com/XNXKTech/laravel-redis-helper/issues",
-                "source": "https://github.com/XNXKTech/laravel-redis-helper/tree/v1.1.1"
+                "source": "https://github.com/XNXKTech/laravel-redis-helper/tree/v1.1.2"
             },
-            "time": "2022-03-29T08:02:54+00:00"
+            "time": "2022-04-06T04:21:47+00:00"
         }
     ],
     "aliases": [],
