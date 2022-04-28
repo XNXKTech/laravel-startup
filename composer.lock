@@ -5272,16 +5272,16 @@
         },
         {
             "name": "symfony/translation",
-            "version": "v5.4.7",
+            "version": "v5.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/translation.git",
-                "reference": "e1eb790575202ee3ac2659f55b93b05853726f8e"
+                "reference": "f5c0f6d1f20993b2606f3a5f36b1dc8c1899170b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/translation/zipball/e1eb790575202ee3ac2659f55b93b05853726f8e",
-                "reference": "e1eb790575202ee3ac2659f55b93b05853726f8e",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/f5c0f6d1f20993b2606f3a5f36b1dc8c1899170b",
+                "reference": "f5c0f6d1f20993b2606f3a5f36b1dc8c1899170b",
                 "shasum": ""
             },
             "require": {
@@ -5349,7 +5349,7 @@
             "description": "Provides tools to internationalize your application",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/translation/tree/v5.4.7"
+                "source": "https://github.com/symfony/translation/tree/v5.4.8"
             },
             "funding": [
                 {
@@ -5365,7 +5365,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-03-24T17:09:09+00:00"
+            "time": "2022-04-22T08:14:12+00:00"
         },
         {
             "name": "symfony/translation-contracts",
@@ -5939,16 +5939,16 @@
         },
         {
             "name": "coduo/php-humanizer",
-            "version": "4.x-dev",
+            "version": "4.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/coduo/php-humanizer.git",
-                "reference": "5a28da797b941d35d03940c4d19fee386667ccd1"
+                "reference": "d941401805af0daca3ae3b449f4e39f65e4e1142"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/coduo/php-humanizer/zipball/5a28da797b941d35d03940c4d19fee386667ccd1",
-                "reference": "5a28da797b941d35d03940c4d19fee386667ccd1",
+                "url": "https://api.github.com/repos/coduo/php-humanizer/zipball/d941401805af0daca3ae3b449f4e39f65e4e1142",
+                "reference": "d941401805af0daca3ae3b449f4e39f65e4e1142",
                 "shasum": ""
             },
             "require": {
@@ -5964,7 +5964,6 @@
             "suggest": {
                 "ext-intl": "Required if you are going to use humanizer with locales different than en_EN"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -5993,9 +5992,15 @@
             ],
             "support": {
                 "issues": "https://github.com/coduo/php-humanizer/issues",
-                "source": "https://github.com/coduo/php-humanizer/tree/4.x"
+                "source": "https://github.com/coduo/php-humanizer/tree/4.0.2"
             },
-            "time": "2021-09-13T10:21:17+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/norberttech",
+                    "type": "github"
+                }
+            ],
+            "time": "2021-06-20T14:32:02+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -11748,20 +11753,20 @@
         },
         {
             "name": "xnxk/helpers",
-            "version": "v1.8.1",
+            "version": "v1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/XNXKTech/php-helpers.git",
-                "reference": "fb2a335bfb5589bbdae3ee7cd094d853fc05ea3e"
+                "reference": "61111e87d07e1102ef7e2f0bff1792dfe7c5772d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/XNXKTech/php-helpers/zipball/fb2a335bfb5589bbdae3ee7cd094d853fc05ea3e",
-                "reference": "fb2a335bfb5589bbdae3ee7cd094d853fc05ea3e",
+                "url": "https://api.github.com/repos/XNXKTech/php-helpers/zipball/61111e87d07e1102ef7e2f0bff1792dfe7c5772d",
+                "reference": "61111e87d07e1102ef7e2f0bff1792dfe7c5772d",
                 "shasum": ""
             },
             "require": {
-                "coduo/php-humanizer": "^4.x-dev",
+                "coduo/php-humanizer": "^4.0",
                 "ext-json": "*",
                 "ext-zlib": "*",
                 "php": "^8.0",
@@ -11805,9 +11810,9 @@
                 "helpers"
             ],
             "support": {
-                "source": "https://github.com/XNXKTech/php-helpers/tree/v1.8.1"
+                "source": "https://github.com/XNXKTech/php-helpers/tree/v1.9.0"
             },
-            "time": "2022-03-13T10:25:03+00:00"
+            "time": "2022-04-28T07:59:49+00:00"
         },
         {
             "name": "xnxktech/laravel-redis-helper",
