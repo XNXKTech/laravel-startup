@@ -7110,16 +7110,16 @@
         },
         {
             "name": "friendsofphp/php-cs-fixer",
-            "version": "v3.32.0",
+            "version": "v3.34.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer.git",
-                "reference": "8e9e270c521720c242741caba888fc5a0a134757"
+                "reference": "7c7a4ad2ed8fe50df3e25528218b13d383608f23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/8e9e270c521720c242741caba888fc5a0a134757",
-                "reference": "8e9e270c521720c242741caba888fc5a0a134757",
+                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/7c7a4ad2ed8fe50df3e25528218b13d383608f23",
+                "reference": "7c7a4ad2ed8fe50df3e25528218b13d383608f23",
                 "shasum": ""
             },
             "require": {
@@ -7196,7 +7196,7 @@
             ],
             "support": {
                 "issues": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues",
-                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.32.0"
+                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.34.0"
             },
             "funding": [
                 {
@@ -7204,7 +7204,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-09-29T14:36:20+00:00"
+            "time": "2023-09-29T15:34:26+00:00"
         },
         {
             "name": "hamcrest/hamcrest-php",
